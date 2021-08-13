@@ -1,3 +1,19 @@
-[requirements.txt](https://github.com/MrNoobking/ugbatiuifagbuiaigfahunuafia/files/6982590/requirements.txt)
-[user_agents.txt](https://github.com/MrNoobking/ugbatiuifagbuiaigfahunuafia/files/6982591/user_agents.txt)
-# ugbatiuifagbuiaigfahunuafia
+Kali Linux!
+sudo apt-get update
+sudo apt-get upgrade
+sudo apt-get update && upgrade
+sudo apt-get install python
+sudo apt-get install python3
+sudo apt install python3-pip
+apt install git
+pip3 install -r requirements.txt
+python3 script.py [-h] [-u USER_AGENTS] -t TARGET -tr THREADS -s SLEEP
+
+
+TERMUX!
+pkg update
+pkg upgrade
+pkg update && upgrade
+pkg install git
+pip3 install -r requirements.txt
+python3 script.py [-h] [-u USER_AGENTS] -t TARGET -tr THREADS -s SLEEP
