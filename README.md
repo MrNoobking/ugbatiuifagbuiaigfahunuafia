@@ -7,7 +7,7 @@ sudo apt-get install python3
 sudo apt install python3-pip
 apt install git
 pip3 install -r requirements.txt
-python3 script.py [-h] [-u USER_AGENTS] -t TARGET -tr THREADS -s SLEEP
+python3 DDOS2Testing.py [-h] [-u USER_AGENTS] -t TARGET -tr THREADS -s SLEEP
 
 
 TERMUX!
@@ -16,4 +16,4 @@ pkg upgrade
 pkg update && upgrade
 pkg install git
 pip3 install -r requirements.txt
-python3 script.py [-h] [-u USER_AGENTS] -t TARGET -tr THREADS -s SLEEP
+python3 DDOS2Testing.py [-h] [-u USER_AGENTS] -t TARGET -tr THREADS -s SLEEP
