@@ -17,3 +17,9 @@ pkg update && upgrade
 pkg install git
 pip3 install -r requirements.txt
 python3 DDOS2Testing.py [-h] [-u USER_AGENTS] -t TARGET -tr THREADS -s SLEEP
+
+
+
+
+Creadit to Lekssays
+Thx to him because he giving me the tutorial how to make it 
