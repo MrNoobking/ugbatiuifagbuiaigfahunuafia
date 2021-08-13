@@ -10,6 +10,53 @@ pip3 install -r requirements.txt
 python3 DDOS2Testing.py [-h] [-u USER_AGENTS] -t TARGET -tr THREADS -s SLEEP
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 TERMUX!
 pkg update
 pkg upgrade
